@@ -4,7 +4,7 @@ Remote SSH command executor using Paramiko
 
 Can be used readily as a built-in tool for any python system  
 
-**Requirements (Dependencies): ** 
+** Requirements (Dependencies): ** 
 - OpenSSH  
 - libssl-dev  
 - PIP: Cryptography, Paramiko  
