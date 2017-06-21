@@ -18,7 +18,7 @@ import logging
 from paramiko import client
 
 class SSHCommandExecutor(object):
-    """ Base class for COmmand executor created from paramiko Python SSH lib
+    """ Base class for Command executor created from paramiko Python SSH lib
     """
     client = None
     
